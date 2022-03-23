@@ -1,5 +1,2 @@
  HEAD
-
-
-
- SSK
+SSk
